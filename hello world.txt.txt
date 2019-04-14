@@ -1,4 +1,6 @@
-print("hello world")
-print("hello everybody")
-print("hello my dear friend")
-добавляем еще что-то
+print("hello world");
+print("hello everybody");
+print("hello my dear friend");
+добавляем еще что-то;
+
+
